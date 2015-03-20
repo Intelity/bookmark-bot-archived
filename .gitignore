@@ -1,0 +1,4 @@
+*.pyc
+db.sqlite3
+.c9
+*.swp
